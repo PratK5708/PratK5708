@@ -23,4 +23,4 @@ I'm an undergraduate student pursuing B.Tech in Computer Science and Social Scie
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake svg](https://github.com/PratK5708/PratK5708/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PratK5708/PratK5708/blob/output/github-contribution-grid-snake.svg)
