@@ -16,7 +16,7 @@ I'm an undergraduate student pursuing B.Tech in Computer Science and Social Scie
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratK5708&theme=dark&hide_border=false)  
 
-## Leetcode Stats
+## Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/pratham21405?ext=activity)
 
 [![](https://visitcount.itsvg.in/api?id=PratK5708&icon=0&color=0)](https://visitcount.itsvg.in)
